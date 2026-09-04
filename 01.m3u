@@ -1150,6 +1150,8 @@ https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ahaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/ekoturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/eko_turk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg",BUSINESS CHANNEL TÜRK
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/business_channel_turk.m3u8
