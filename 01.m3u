@@ -1409,6 +1409,8 @@ https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/kemal_sunal_filmleri.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s160-c-k-c0x00ffffff-no-rj",ARZU FİLM
 https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/yesilcam_tv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/m-w-Y2UkI5ZiwSrVWoYU3vbGBhuJThjOVPivWw0RUntNoDT5IRv6bkRXNr_rNGUcufcbSbgUqeY=s160-c-k-c0x00ffffff-no-rj",FOBOS PLANET
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/somine_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
