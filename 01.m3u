@@ -1405,8 +1405,8 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png",TLC TR (pc/mob init)
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s160-c-k-c0x00ffffff-no-rj",GÜLŞAH FİLM
+https://raw.githubusercontent.com/bnyusuf67-crypto/pydroid-yt-canli/refs/heads/main/streams/kemal_sunal_filmleri.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C33T9Vdk/trtgenc.png" group-title="10. |TR|🇹🇷 ÇOCUK - SPOR 🧒🤾‍♀️",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
